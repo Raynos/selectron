@@ -1,0 +1,30 @@
+{
+  "name": "selectron",
+  "version": "0.0.1",
+  "description": "Keep track of the currently selected thing",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/selectron.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/selectron",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/selectron/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browserify-server": "~1.0.2"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/selectron/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {}
+}
